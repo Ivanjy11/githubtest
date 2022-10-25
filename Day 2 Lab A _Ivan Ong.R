@@ -192,3 +192,6 @@ summary(model2)
 
 
 #####End#######
+
+##Ivan
+ivan_ong <- 11
